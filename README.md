@@ -1,54 +1,63 @@
-# 👋 Hi there! I'm Cansu Yıldırım
+# 👋 Hello! I’m Cansu Yıldırım
 
-I'm a senior Computer Engineering student —  
-a traveler who thinks in code, dreams in design, and transforms with technology.
+I am a senior Computer Engineering student at Istanbul Health and Technology University.  
+I believe software is not only about projects but also about creating meaning, hope, and solutions.
 
-💡 I love building across domains: from artificial intelligence to mobile apps, data engineering to educational technologies.  
-💬 With strong communication and team spirit, I contribute not just with code, but with energy and inspiration.
-
----
-
-## ✨ A Few Words That Define Me
-
-`Curious` • `Solution-Oriented` • `Creative` • `Driven` • `Empathetic` • `Impact-Minded`
+🎯 I actively work on projects in fields such as artificial intelligence, mobile app development, data engineering, and educational technologies.  
+💬 With my teamwork skills, strong communication, and high sense of responsibility, I bring a human touch to technical knowledge.
 
 ---
 
-## 💡 My Areas of Passion
+## ✨ How I Define Myself
 
-- Human-centered technologies  
-- Reducing inequality in education  
-- Making life easier with AI  
-- Teamwork, communities, and volunteering  
+`Curious` • `Solution-Oriented` • `Creative` • `Social Impact-Driven` • `Passionate about Growth` • `Inspirational`
 
+---
+
+## 💡 My Interests
+
+- Developing technologies that make human life easier  
+- Supporting equal opportunities in education through technology  
+- Using artificial intelligence in meaningful scenarios  
+- Being active in communities with team spirit and volunteering  
+- Combining software with art and psychology
 
 ---
 
 ## 🛠️ My Digital Toolbox
 
-Every line of code I write is a step toward solving a real problem. Here are the tools I walk with:
+Code is my form of expression, technologies are my instruments:
 
-- 🐍 **Python** – My voice to speak with data and intelligence  
-- 📱 **Flutter & Dart** – Turning ideas into mobile realities  
-- 🐳 **Docker** – Packaging projects that run anywhere  
-- 🎯 **Airflow & dbt** – Automating smart, timely data workflows  
-- 🗃️ **SQL** – Not just querying data, but telling stories with it  
-- 💻 **Java & C#** – Communicating with objects, building solid systems  
-- 🔧 **Git & GitHub** – Not just version control — growth control
-
----
-
-## 🌱 A Bit More About Me...
-
-- Core Team Member at Google Developer Student Clubs Turkey
-- Artificial Intelligence and Technology Academy Scholar  
-- Team Leader in YetGen 2023–2024 Education Program  
-- Mentor at IEEE ISTÜN Computer Society  
-- Outside of coding, I write poetry and explore psychology  
+- 🐍 **Python** – My biggest helper in AI, data analysis, and interactive applications  
+- 📱 **Flutter & Dart** – Turning my dreams into mobile apps  
+- 🗄️ **SQL** – Not just analyzing data, but transforming it into insights  
+- 🐳 **Docker** – Making my applications portable and scalable  
+- 🎯 **Airflow & dbt** – Processing data timely and orderly  
+- 💻 **Java & C#** – Bringing object-oriented programming together with solid structures  
+- 🔧 **Git & GitHub** – Versioning my code, sharing ideas, creating collaboratively
 
 ---
 
-## 📫 Let's Connect
+## 🌱 Communities I’m Actively Involved In
+
+- **Google Artificial Intelligence and Technology Academy** – Scholar & project developer  
+- **Google Developer Student Clubs Turkey** – Core Team member  
+- **YetGen Education Program** – 2 terms of Education Leadership  
+- **IEEE ISTÜN** – Mentoring & Project Consultancy  
+- Gained practical experience in the industry through **AI and software development internships**
+
+---
+
+## 🎭 What Makes Me Different
+
+- I write poetry, expressing my emotions through words  
+- I’m interested in psychology, curious about people and behaviors  
+- I strive to become a new version of myself every day through my curiosity to learn  
+- I see technology not only as code but as a way to create meaning
+
+---
+
+## 📫 Contact Me
 
 - 📧 cansuyil614@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/cansuyildirimmm/)  
@@ -56,4 +65,5 @@ Every line of code I write is a step toward solving a real problem. Here are the
 
 ---
 
-> 🌟 “I'm here to add soul to technology and meaning to projects.” — Cansu
+> 🌟 “There is a human in my code. In every line, a solution, a hope, a piece of me.” — Cansu
+
