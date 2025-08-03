@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Cansu Yıldırım
+# 👋 Hello! I’m Cansu 
 
 I am a senior Computer Engineering student at Istanbul Health and Technology University.  
 I believe software is not only about projects but also about creating meaning, hope, and solutions.
