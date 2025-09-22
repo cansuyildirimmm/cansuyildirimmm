@@ -3,7 +3,7 @@
 I am a senior Computer Engineering student at Istanbul Health and Technology University.  
 I believe software is not only about projects but also about creating meaning, hope, and solutions.
 
-🎯 I actively work on projects in fields such as artificial intelligence, mobile app development, data engineering, and educational technologies.  
+🎯 I actively work on projects in fields such as artificial intelligence, mobile app development, data engineering and educational technologies.  
 💬 With my teamwork skills, strong communication, and high sense of responsibility, I bring a human touch to technical knowledge.
 
 ---
