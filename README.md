@@ -4,7 +4,7 @@ I am a senior Computer Engineering student at Istanbul Health and Technology Uni
 I believe software is not only about projects but also about creating meaning, hope and solutions.
 
 🎯 I actively work on projects in fields such as artificial intelligence, data science, mobile app development and data engineering.
-💬 With my teamwork skills, strong communication, and high sense of responsibility, I bring a human touch to technical knowledge.
+💬 With my teamwork skills, strong communication and high sense of responsibility, I bring a human touch to technical knowledge.
 
 ---
 
@@ -30,7 +30,7 @@ Code is my form of expression, technologies are my instruments:
 
 - 🐍 **Python** – My biggest helper in AI, data analysis, and interactive applications  
 - 📱 **Flutter & Dart** – Turning my dreams into mobile apps  
-- 🗄️ **SQL** – Not just analyzing data, but transforming it into insights  
+- 🗄️ **SQL** – Not just analyzing data but transforming it into insights  
 - 🐳 **Docker** – Making my applications portable and scalable  
 - 🎯 **Airflow & dbt** – Processing data timely and orderly  
 - 💻 **Java & C#** – Bringing object-oriented programming together with solid structures  
@@ -44,7 +44,7 @@ Code is my form of expression, technologies are my instruments:
 - **Google Developer Student Clubs Turkey** – Core Team member  
 - **YetGen Education Program** – 2 terms of Education Leadership  
 - **IEEE ISTÜN** – Mentoring & Project Consultancy  
-- Gained practical experience in the industry through **AI and software development internships**
+- Gained practical experience in the industry through **Data Engineering, AI and software development internships**
 
 ---
 
@@ -61,9 +61,8 @@ Code is my form of expression, technologies are my instruments:
 
 - 📧 cansuyil614@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/cansuyildirimmm/)  
-- 🧪 [GitHub](https://github.com/cansuyildirimmm)
 
 ---
 
-> 🌟 “There is a human in my code. In every line, a solution, a hope, a piece of me.” — Cansu
+> 🌟 “There is a human in my code. In every line; a solution, a hope, a piece of me.” — Cansu
 
