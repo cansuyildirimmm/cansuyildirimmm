@@ -1,13 +1,30 @@
+<!-- HERO IMAGE -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.png" 
+    src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.jpg"
     width="650"
     style="border-radius:18px;"
   />
 </p>
 
+<!-- TYPING EFFECT -->
 <p align="center">
-🦋 <em>Transformation through human-centered technology</em>
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Fira+Code
+  &size=20
+  &pause=1200
+  &color=7C83FD
+  &center=true
+  &vCenter=true
+  &width=700
+  &lines=Transformation+through+human-centered+technology;
+  AI+with+empathy+and+creativity;
+  There+is+a+human+in+my+code+🦋" />
+</p>
+
+<!-- BUTTERFLY GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="70"/>
 </p>
 
 <h1 align="center">👋 Hello! I’m Cansu</h1>
@@ -16,18 +33,12 @@
   <em>Computer Engineering Student • AI Enthusiast • Project-Oriented Thinker</em>
 </p>
 
+<!-- TOOL ICONS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=Fira+Code
-  &pause=1200
-  &center=true
-  &width=650
-  &lines=I+build+technology+with+meaning.;
-  I+combine+AI%2C+data+and+creativity.;
-  There+is+a+human+in+my+code."/>
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,java,cs,git,github,docker,postgres,firebase" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🌱 My Story
 
@@ -41,7 +52,7 @@ I enjoy being part of projects where:
 - ideas turn into real products  
 - and teamwork makes everything stronger  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🎯 What I Work On
 
@@ -54,7 +65,7 @@ I enjoy being part of projects where:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## ✨ How I Define Myself
 
@@ -65,7 +76,7 @@ I enjoy being part of projects where:
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 💡 My Interests
 
@@ -75,23 +86,15 @@ I enjoy being part of projects where:
 - 🤝 Being active in communities with team spirit and volunteering  
 - 🎨 Combining **software, art, poetry and psychology**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🛠️ My Digital Toolbox
 
-> Code is my form of expression, technologies are my instruments.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flutter,docker,git,github" />
+</p>
 
-<div align="center">
-
-🐍 **Python** • 📊 Data Science • 🤖 Machine Learning  
-🗣 **NLP & AI Chatbots** • 🔁 **n8n Automation**  
-📱 **Flutter & Dart** • 🗄️ **SQL**  
-🐳 **Docker** • 🎯 **Airflow & dbt**  
-💻 **Java & C#** • 🔧 **Git & GitHub**
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🌱 Communities & Leadership
 
@@ -103,16 +106,20 @@ I enjoy being part of projects where:
 
 I enjoy **leading, mentoring and building together**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🎭 Beyond Code
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
+</p>
 
 - ✍️ I write poetry — words help me understand people  
 - 🧠 I’m interested in psychology and human behavior  
 - 🔄 I strive to become a better version of myself every day  
 - 💙 I see technology not only as code, but as a way to **touch lives**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🌐 Let’s Connect
 
@@ -125,11 +132,8 @@ I enjoy **leading, mentoring and building together**.
   </a>
 </p>
 
----
-
 <p align="center">
 🦋 <strong>There is a human in my code.</strong><br/>
 In every line; a solution, a hope, a piece of me.
 </p>
-
 
