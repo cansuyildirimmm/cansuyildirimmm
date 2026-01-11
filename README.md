@@ -145,7 +145,7 @@ I enjoy **leading, mentoring and building together**.
 - ✍️ I write poetry — words help me understand people  
 - 🧠 I’m interested in psychology and human behavior  
 - 🔄 I strive to become a better version of myself every day  
-- 💙 I see technology not only as code, but as a way to **touch lives**
+- 💙 I see technology not only as code but as a way to **touch lives**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
