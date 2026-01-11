@@ -26,14 +26,19 @@
 <br/>
 
 <p align="center">
-  <em>Transformation through human-centered technology</em>
+  <em>Driving transformation through <strong>AI, Data</strong> and human-centered technology</em>
 </p>
 
 <br/>
 
-<!-- TECH ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,java,git,github,docker,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,numpy,pandas,scikitlearn,tensorflow,pytorch,fastapi,docker,postgres,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
@@ -65,6 +70,27 @@ I enjoy being part of projects where:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
+## 🚀 Featured Projects
+
+### 📊 AI-Powered Performance Decision Support System (Senior Project)
+* **Tech:** Python, Machine Learning, Data Analytics, Web-based Dashboard.
+* **Focus:** Developing a decision support system analyzing employee/department performance via motivation surveys, task completion times, and KPIs.
+* **Impact:** ML models for performance forecasting and risk analysis with intuitive manager dashboards.
+
+### 🎓 SmartEdu - AI-Powered Education (TÜBİTAK 2209-A)
+* **Tech:** Flutter, LLMs, Text-to-Speech (TTS).
+* **Impact:** Developed a personalized learning environment for students with disabilities, adapting content to individual learning styles using AI.
+
+### 👗 Virtual Boutique (AI Automation)
+* **Tech:** n8n, Replicate (VTON models), Gemini Vision, Telegram API.
+* **Insight:** Built an end-to-end automation pipeline that transforms product photos onto models, significantly reducing photography costs for boutiques.
+
+### 📈 Customer Churn Analysis (Digiturk Internship)
+* **Tech:** Python, ML Algorithms, PostgreSQL, dbt, Apache Airflow.
+* **Insight:** Designed automated ETL pipelines to predict customer churn and created strategic dashboards for business insights.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ## ✨ How I Define Myself
 
 <p align="center">
@@ -88,11 +114,13 @@ I enjoy being part of projects where:
 
 ## 🛠️ My Digital Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flutter,docker,git,github,postgres,firebase" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,flutter,dart" /> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<p align="left"> <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,tensorflow,pytorch" /> </p>
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker" /> </p>
+
+<p align="left"> <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> </p>
 
 ## 🌱 Communities & Leadership
 
@@ -117,7 +145,7 @@ I enjoy **leading, mentoring and building together**.
 
 ## 🌐 Let’s Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/cansuyildirimmm/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -126,7 +154,9 @@ I enjoy **leading, mentoring and building together**.
   </a>
 </p>
 
-<p align="center">
+
+
+<p align="left">
 🦋 <strong>There is a human in my code.</strong><br/>
 In every line; a solution, a hope, a piece of me.
 </p>
