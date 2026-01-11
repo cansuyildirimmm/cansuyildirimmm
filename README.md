@@ -132,3 +132,4 @@ I enjoy **leading, mentoring and building together**.
 In every line; a solution, a hope, a piece of me.
 </p>
 
+
