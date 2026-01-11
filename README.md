@@ -1,3 +1,14 @@
+<!-- HERO IMAGE -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.png"
+    width="620"
+    style="border-radius:18px;"
+  />
+</p>
+
+<br/>
+
 <!-- TYPING NAME -->
 <p align="center">
   <img 
@@ -9,17 +20,6 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;AI+Enthusiast;Project-Oriented+Thinker;Human-centered+technology" 
-  />
-</p>
-
-<br/>
-
-<!-- HERO IMAGE -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.png"
-    width="620"
-    style="border-radius:18px;"
   />
 </p>
 
@@ -130,3 +130,4 @@ I enjoy **leading, mentoring and building together**.
 🦋 <strong>There is a human in my code.</strong><br/>
 In every line; a solution, a hope, a piece of me.
 </p>
+
