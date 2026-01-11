@@ -1,31 +1,30 @@
+<!-- TYPING INTRO (FIRST IMPRESSION) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Fira+Code
+  &size=22
+  &pause=1400
+  &color=6C63FF
+  &center=true
+  &vCenter=true
+  &width=750
+  &lines=Transformation+through+human-centered+technology;
+  I+build+AI+with+empathy+and+creativity;
+  Technology+is+my+tool%2C+impact+is+my+goal+🦋" />
+</p>
+
+<br/>
+
 <!-- HERO IMAGE -->
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.png"
-    width="650"
-    style="border-radius:18px;"
+    width="640"
+    style="border-radius:20px;"
   />
 </p>
 
-<!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=Fira+Code
-  &size=20
-  &pause=1200
-  &color=7C83FD
-  &center=true
-  &vCenter=true
-  &width=700
-  &lines=Transformation+through+human-centered+technology;
-  AI+with+empathy+and+creativity;
-  There+is+a+human+in+my+code+🦋" />
-</p>
-
-<!-- BUTTERFLY GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="70"/>
-</p>
+<br/>
 
 <h1 align="center">👋 Hello! I’m Cansu</h1>
 
@@ -33,9 +32,9 @@
   <em>Computer Engineering Student • AI Enthusiast • Project-Oriented Thinker</em>
 </p>
 
-<!-- TOOL ICONS -->
+<!-- DIGITAL TOOL ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,java,cs,git,github,docker,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,java,git,github,docker,postgres,firebase" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
@@ -109,10 +108,6 @@ I enjoy **leading, mentoring and building together**.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🎭 Beyond Code
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
-</p>
 
 - ✍️ I write poetry — words help me understand people  
 - 🧠 I’m interested in psychology and human behavior  
