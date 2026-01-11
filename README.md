@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/images/hero.jpg" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/images/hero.jpg" width="800"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/images/hero.gif" width="800"/>
 </p>
 
