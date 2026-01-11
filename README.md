@@ -59,11 +59,11 @@ I enjoy being part of projects where:
 
 ## 🎯 What I Work On
 
-<div align="center">
+<div align="left">
 
 | 🤖 AI & Data | 📱 Mobile | 🔁 Automation | 🧠 Product Thinking |
 |------------|----------|--------------|--------------------|
-| Machine Learning | Flutter Apps | n8n Workflows | From idea to impact |
+| Machine Learning, Deep Learning | Flutter Apps | n8n Workflows | From idea to impact |
 | NLP & Chatbots | Human-centered UI | API Integrations | PoC → MVP mindset |
 
 </div>
@@ -72,7 +72,7 @@ I enjoy being part of projects where:
 
 ## 🚀 Featured Projects
 
-### 📊 AI-Powered Performance Decision Support System (Senior Project)
+### 📊 AI-Powered Performance Decision Support System 
 * **Tech:** Python, Machine Learning, Data Analytics, Web-based Dashboard.
 * **Focus:** Developing a decision support system analyzing employee/department performance via motivation surveys, task completion times, and KPIs.
 * **Impact:** ML models for performance forecasting and risk analysis with intuitive manager dashboards.
@@ -81,11 +81,11 @@ I enjoy being part of projects where:
 * **Tech:** Flutter, LLMs, Text-to-Speech (TTS).
 * **Impact:** Developed a personalized learning environment for students with disabilities, adapting content to individual learning styles using AI.
 
-### 👗 Virtual Boutique (AI Automation)
+### 👗 Virtual Boutique 
 * **Tech:** n8n, Replicate (VTON models), Gemini Vision, Telegram API.
 * **Insight:** Built an end-to-end automation pipeline that transforms product photos onto models, significantly reducing photography costs for boutiques.
 
-### 📈 Customer Churn Analysis (Digiturk Internship)
+### 📈 Customer Churn Analysis 
 * **Tech:** Python, ML Algorithms, PostgreSQL, dbt, Apache Airflow.
 * **Insight:** Designed automated ETL pipelines to predict customer churn and created strategic dashboards for business insights.
 
@@ -154,7 +154,7 @@ I enjoy **leading, mentoring and building together**.
   </a>
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <p align="left">
 🦋 <strong>There is a human in my code.</strong><br/>
