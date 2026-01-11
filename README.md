@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.jpg" width="800"/>
+  <img 
+    src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.jpg" 
+    width="650"
+    style="border-radius:18px;"
+  />
 </p>
-
 
 <p align="center">
 🦋 <em>Transformation through human-centered technology</em>
@@ -14,7 +17,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=650&lines=I+build+technology+with+meaning.;I+combine+AI%2C+data+and+creativity.;There+is+a+human+in+my+code."/>
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Fira+Code
+  &pause=1200
+  &center=true
+  &width=650
+  &lines=I+build+technology+with+meaning.;
+  I+combine+AI%2C+data+and+creativity.;
+  There+is+a+human+in+my+code."/>
 </p>
 
 ---
@@ -121,3 +131,4 @@ I enjoy **leading, mentoring and building together**.
 🦋 <strong>There is a human in my code.</strong><br/>
 In every line; a solution, a hope, a piece of me.
 </p>
+
