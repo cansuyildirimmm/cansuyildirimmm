@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-image-link/hero.gif" width="800"/>
+  <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/images/hero.gif" width="800"/>
+</p>
+
+<p align="center">
+🦋 <em>Transformation through human-centered technology</em>
 </p>
 
 <h1 align="center">👋 Hello! I’m Cansu</h1>
@@ -9,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=I+build+technology+with+meaning.;I+combine+AI%2C+data+and+creativity.;There+is+a+human+in+my+code."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=650&lines=I+build+technology+with+meaning.;I+combine+AI%2C+data+and+creativity.;There+is+a+human+in+my+code."/>
 </p>
 
 ---
@@ -54,11 +58,11 @@ I enjoy being part of projects where:
 
 ## 💡 My Interests
 
-- 🌍 Developing technologies that make life easier  
+- 🌍 Developing technologies that make human life easier  
 - 🎓 Supporting **equal opportunities in education** through AI  
-- 🤖 Using artificial intelligence in **meaningful, ethical scenarios**  
-- 🤝 Being active in communities and volunteering  
-- 🎨 Combining **software, art and psychology**
+- 🤖 Using artificial intelligence in **meaningful and ethical scenarios**  
+- 🤝 Being active in communities with team spirit and volunteering  
+- 🎨 Combining **software, art, poetry and psychology**
 
 ---
 
@@ -95,7 +99,7 @@ I enjoy **leading, mentoring and building together**.
 - ✍️ I write poetry — words help me understand people  
 - 🧠 I’m interested in psychology and human behavior  
 - 🔄 I strive to become a better version of myself every day  
-- 💙 I see technology as a way to **create meaning, not just systems**
+- 💙 I see technology not only as code, but as a way to **touch lives**
 
 ---
 
@@ -113,6 +117,6 @@ I enjoy **leading, mentoring and building together**.
 ---
 
 <p align="center">
-✨ <strong>There is a human in my code.</strong><br/>
+🦋 <strong>There is a human in my code.</strong><br/>
 In every line; a solution, a hope, a piece of me.
 </p>
