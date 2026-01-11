@@ -99,7 +99,7 @@ I enjoy being part of projects where:
 - 🌟 **Google AI & Technology Academy** – Scholar & project developer  
 - 🚀 **Google Developer Student Clubs Turkey** – Core Team  
 - 🌿 **YetGen Education Program** – 2 terms Education Leadership  
-- 🧭 **IEEE ISTÜN** – Mentor & Project Consultant  
+- 🧭 **IEEE ISTÜN CS Community** – Mentor & Project Consultant  
 - 🏢 Industry experience through **AI, Data Engineering & Software internships**
 
 I enjoy **leading, mentoring and building together**.
