@@ -1,14 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/images/hero.jpg" width="800"/>
+  <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.jpg" width="800"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/images/hero.jpg" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/images/hero.gif" width="800"/>
-</p>
 
 <p align="center">
 🦋 <em>Transformation through human-centered technology</em>
