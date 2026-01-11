@@ -89,15 +89,21 @@ I enjoy being part of projects where:
 * **Tech:** Python, ML Algorithms, PostgreSQL, dbt, Apache Airflow.
 * **Insight:** Designed automated ETL pipelines to predict customer churn and created strategic dashboards for business insights.
 
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## ✨ How I Define Myself
 
-<p align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Curious-333333?style=for-the-badge&logo=explore&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative-333333?style=for-the-badge&logo=artstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solution--Oriented-333333?style=for-the-badge&logo=checkmark&logoColor=white" />
+</p>
 
-`Curious` • `Creative` • `Solution-Oriented`  
-`Social Impact-Driven` • `Responsible` • `Growth-Oriented`
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Social%20Impact--Driven-333333?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsible-333333?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Growth--Oriented-333333?style=for-the-badge&logo=upwork&logoColor=white" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
