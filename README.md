@@ -1,68 +1,118 @@
-# 👋 Hello! I’m Cansu 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-image-link/hero.gif" width="800"/>
+</p>
 
-I am a senior Computer Engineering student at Istanbul Health and Technology University.  
-I believe software is not only about projects but also about creating meaning, hope and solutions.
+<h1 align="center">👋 Hello! I’m Cansu</h1>
 
-🎯 I actively work on projects in fields such as artificial intelligence, data science, mobile app development and data engineering.
-💬 With my teamwork skills, strong communication and high sense of responsibility, I bring a human touch to technical knowledge.
+<p align="center">
+  <em>Computer Engineering Student • AI Enthusiast • Project-Oriented Thinker</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=I+build+technology+with+meaning.;I+combine+AI%2C+data+and+creativity.;There+is+a+human+in+my+code."/>
+</p>
+
+---
+
+## 🌱 My Story
+
+I am a senior **Computer Engineering student at Istanbul Health and Technology University**.
+
+For me, software is not just about completing tasks or repositories.  
+It is about **creating meaning, hope and solutions**.
+
+I enjoy being part of projects where:
+- technology touches people’s lives  
+- ideas turn into real products  
+- and teamwork makes everything stronger  
+
+---
+
+## 🎯 What I Work On
+
+<div align="center">
+
+| 🤖 AI & Data | 📱 Mobile | 🔁 Automation | 🧠 Product Thinking |
+|------------|----------|--------------|--------------------|
+| Machine Learning | Flutter Apps | n8n Workflows | From idea to impact |
+| NLP & Chatbots | Human-centered UI | API Integrations | PoC → MVP mindset |
+
+</div>
 
 ---
 
 ## ✨ How I Define Myself
 
-`Curious` • `Solution-Oriented` • `Creative` • `Social Impact-Driven` • `Passionate about Growth` • `Inspirational`
+<p align="center">
+
+`Curious` • `Creative` • `Solution-Oriented`  
+`Social Impact-Driven` • `Responsible` • `Growth-Oriented`
+
+</p>
 
 ---
 
 ## 💡 My Interests
 
-- Developing technologies that make human life easier  
-- Supporting equal opportunities in education through technology  
-- Using artificial intelligence in meaningful scenarios  
-- Being active in communities with team spirit and volunteering  
-- Combining software with art and psychology
+- 🌍 Developing technologies that make life easier  
+- 🎓 Supporting **equal opportunities in education** through AI  
+- 🤖 Using artificial intelligence in **meaningful, ethical scenarios**  
+- 🤝 Being active in communities and volunteering  
+- 🎨 Combining **software, art and psychology**
 
 ---
 
 ## 🛠️ My Digital Toolbox
 
-Code is my form of expression, technologies are my instruments:
+> Code is my form of expression, technologies are my instruments.
 
-- 🐍 **Python** – My biggest helper in AI, data analysis, and interactive applications  
-- 📱 **Flutter & Dart** – Turning my dreams into mobile apps  
-- 🗄️ **SQL** – Not just analyzing data but transforming it into insights  
-- 🐳 **Docker** – Making my applications portable and scalable  
-- 🎯 **Airflow & dbt** – Processing data timely and orderly  
-- 💻 **Java & C#** – Bringing object-oriented programming together with solid structures  
-- 🔧 **Git & GitHub** – Versioning my code, sharing ideas, creating collaboratively
+<div align="center">
 
----
+🐍 **Python** • 📊 Data Science • 🤖 Machine Learning  
+🗣 **NLP & AI Chatbots** • 🔁 **n8n Automation**  
+📱 **Flutter & Dart** • 🗄️ **SQL**  
+🐳 **Docker** • 🎯 **Airflow & dbt**  
+💻 **Java & C#** • 🔧 **Git & GitHub**
 
-## 🌱 Communities I’m Actively Involved In
-
-- **Google Artificial Intelligence and Technology Academy** – Scholar & project developer  
-- **Google Developer Student Clubs Turkey** – Core Team member  
-- **YetGen Education Program** – 2 terms of Education Leadership  
-- **IEEE ISTÜN** – Mentoring & Project Consultancy  
-- Gained practical experience in the industry through **Data Engineering, AI and software development internships**
+</div>
 
 ---
 
-## 🎭 What Makes Me Different
+## 🌱 Communities & Leadership
 
-- I write poetry, expressing my emotions through words  
-- I’m interested in psychology, curious about people and behaviors  
-- I strive to become a new version of myself every day through my curiosity to learn  
-- I see technology not only as code but as a way to create meaning
+- 🌟 **Google AI & Technology Academy** – Scholar & project developer  
+- 🚀 **Google Developer Student Clubs Turkey** – Core Team  
+- 🌿 **YetGen Education Program** – 2 terms Education Leadership  
+- 🧭 **IEEE ISTÜN** – Mentor & Project Consultant  
+- 🏢 Industry experience through **AI, Data Engineering & Software internships**
 
----
-
-## 📫 Contact Me
-
-- 📧 cansuyil614@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/cansuyildirimmm/)  
+I enjoy **leading, mentoring and building together**.
 
 ---
 
-> 🌟 “There is a human in my code. In every line; a solution, a hope, a piece of me.” — Cansu
+## 🎭 Beyond Code
 
+- ✍️ I write poetry — words help me understand people  
+- 🧠 I’m interested in psychology and human behavior  
+- 🔄 I strive to become a better version of myself every day  
+- 💙 I see technology as a way to **create meaning, not just systems**
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cansuyildirimmm/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:cansuyil614@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ <strong>There is a human in my code.</strong><br/>
+In every line; a solution, a hope, a piece of me.
+</p>
