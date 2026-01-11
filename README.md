@@ -1,53 +1,20 @@
-<!-- ===================== -->
-<!--  ANIMATED INTRO TEXT -->
-<!-- ===================== -->
-
+<!-- ANIMATED INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=Fira+Code
-  &size=30
-  &pause=1200
-  &color=6C63FF
-  &center=true
-  &vCenter=true
-  &width=850
-  &lines=Hello%2C+I%27m+Cansu+👋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Hello%2C+I%27m+Cansu+👋" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=Fira+Code
-  &size=20
-  &pause=1400
-  &color=7C83FD
-  &center=true
-  &vCenter=true
-  &width=950
-  &lines=Computer+Engineering+Student;
-  AI+Enthusiast+with+Human-Centered+Vision;
-  Project-Oriented+Thinker;
-  Creating+technology+that+touches+lives+🦋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=7C83FD&center=true&vCenter=true&width=950&lines=Computer+Engineering+Student;AI+Enthusiast+with+Human-Centered+Vision;Project-Oriented+Thinker;Creating+technology+that+touches+lives+🦋" />
 </p>
 
 <br/>
 
-<!-- ===================== -->
-<!--  HERO IMAGE           -->
-<!-- ===================== -->
-
+<!-- HERO IMAGE -->
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.png"
-    width="640"
-    style="border-radius:22px;"
-  />
+  <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.png" width="640" style="border-radius:22px;" />
 </p>
 
 <br/>
-
-<!-- ===================== -->
-<!--  TAGLINE              -->
-<!-- ===================== -->
 
 <p align="center">
   <em>Transformation through human-centered technology</em>
@@ -55,19 +22,12 @@
 
 <br/>
 
-<!-- ===================== -->
-<!--  DIGITAL TOOL ICONS   -->
-<!-- ===================== -->
-
+<!-- TOOL ICONS -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flutter,dart,java,git,github,docker,tensorflow,pytorch" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-<!-- ===================== -->
-<!--  MY STORY             -->
-<!-- ===================== -->
 
 ## 🌱 My Story
 
@@ -83,10 +43,6 @@ I enjoy being part of projects where:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<!-- ===================== -->
-<!--  WHAT I WORK ON       -->
-<!-- ===================== -->
-
 ## 🎯 What I Work On
 
 <div align="center">
@@ -100,10 +56,6 @@ I enjoy being part of projects where:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<!-- ===================== -->
-<!--  HOW I DEFINE MYSELF  -->
-<!-- ===================== -->
-
 ## ✨ How I Define Myself
 
 <p align="center">
@@ -115,10 +67,6 @@ I enjoy being part of projects where:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<!-- ===================== -->
-<!--  INTERESTS            -->
-<!-- ===================== -->
-
 ## 💡 My Interests
 
 - 🌍 Developing technologies that make human life easier  
@@ -129,10 +77,6 @@ I enjoy being part of projects where:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<!-- ===================== -->
-<!--  DIGITAL TOOLBOX      -->
-<!-- ===================== -->
-
 ## 🛠️ My Digital Toolbox
 
 <p align="center">
@@ -140,10 +84,6 @@ I enjoy being part of projects where:
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-<!-- ===================== -->
-<!--  COMMUNITIES          -->
-<!-- ===================== -->
 
 ## 🌱 Communities & Leadership
 
@@ -157,10 +97,6 @@ I enjoy **leading, mentoring and building together**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<!-- ===================== -->
-<!--  BEYOND CODE          -->
-<!-- ===================== -->
-
 ## 🎭 Beyond Code
 
 - ✍️ I write poetry — words help me understand people  
@@ -169,10 +105,6 @@ I enjoy **leading, mentoring and building together**.
 - 💙 I see technology not only as code, but as a way to **touch lives**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-<!-- ===================== -->
-<!--  CONTACT              -->
-<!-- ===================== -->
 
 ## 🌐 Let’s Connect
 
@@ -189,3 +121,4 @@ I enjoy **leading, mentoring and building together**.
 🦋 <strong>There is a human in my code.</strong><br/>
 In every line; a solution, a hope, a piece of me.
 </p>
+
