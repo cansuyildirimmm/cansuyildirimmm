@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.jpg" 
+    src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.png" 
     width="650"
     style="border-radius:18px;"
   />
