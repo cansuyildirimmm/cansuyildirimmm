@@ -128,6 +128,12 @@ I enjoy being part of projects where:
 
 <p align="left"> <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> </p>
 
+## 🚀 Mission Control
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cansuyildirimmm&show_icons=true&theme=radical&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=radical)
+
 ## 🌱 Communities & Leadership
 
 - 🌟 **Google AI & Technology Academy** – Scholar & project developer  
