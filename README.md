@@ -166,14 +166,11 @@ I enjoy **leading, mentoring and building together**.
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=cansuyildirimmm&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 
 <p align="left">
 🦋 <strong>There is a human in my code.</strong><br/>
