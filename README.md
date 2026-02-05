@@ -1,4 +1,4 @@
-<!-- HERO IMAGE -->                      
+<!-- HERO IMAGE -->                              
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.png"
@@ -130,9 +130,13 @@ I enjoy being part of projects where:
 
 ## 🚀 Mission Control
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cansuyildirimmm&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cansuyildirimmm&show_icons=true&theme=radical" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=radical&cache_seconds=86400)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=radical" />
+</p>
 
 ## 🌱 Communities & Leadership
 
