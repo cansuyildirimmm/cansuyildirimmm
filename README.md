@@ -134,7 +134,7 @@ I enjoy being part of projects where:
 
 ![Top Langs](https://SENIN-PROJEN.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=radical)
 
-/> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🌱 Communities & Leadership
 
