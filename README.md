@@ -130,13 +130,11 @@ I enjoy being part of projects where:
 
 ## 🚀 Mission Control
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cansuyildirimmm&show_icons=true&theme=radical" />
-</p>
+![GitHub Stats](https://SENIN-PROJEN.vercel.app/api?username=cansuyildirimmm&show_icons=true&theme=radical)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=radical" />
-</p>
+![Top Langs](https://SENIN-PROJEN.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=radical)
+
+/> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> </p>
 
 ## 🌱 Communities & Leadership
 
