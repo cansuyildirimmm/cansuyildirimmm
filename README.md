@@ -45,7 +45,7 @@
 
 ## 🌱 My Story
 
-I am a senior **Computer Engineering student at Istanbul Health and Technology University**.
+I'm a Computer Engineering graduate with a strong passion for Artificial Intelligence, Software Development, Product Development and Project Management.
 
 For me, software is not just about completing tasks or repositories.  
 It is about **creating meaning, hope and solutions**.
