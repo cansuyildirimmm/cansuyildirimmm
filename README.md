@@ -1,181 +1,126 @@
-<!-- HERO IMAGE -->                                                       
+
+<!-- HERO IMAGE -->
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.png"
-    width="620"
-    style="border-radius:18px;"
-  />
-</p>
-
-<br/>
-
-<!-- TYPING NAME -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+I%E2%80%99m+Cansu" 
-  />
-</p>
-
-<!-- TYPING ROLE -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;AI+Enthusiast;Project-Oriented+Thinker;Human-centered+technology" 
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <em>Driving transformation through <strong>AI, Data</strong> and human-centered technology</em>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,numpy,pandas,scikitlearn,tensorflow,pytorch,fastapi,docker,postgres,git" />
+  <img src="https://raw.githubusercontent.com/cansuyildirimmm/cansuyildirimmm/main/hero.png" width="620" alt="Profile banner"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Cansu!;Computer+Engineer;Software+%26+AI+Enthusiast;Product+%26+Project+Mindset" alt="Introduction"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<p align="center">
+  <em>Building meaningful solutions through software, AI and human-centered technology.</em>
+</p>
 
-## 🌱 My Story
+---
 
-I'm a Computer Engineering graduate with a strong passion for Artificial Intelligence, Software Development, Product Development and Project Management.
+## 👩🏻‍💻 About Me
 
-For me, software is not just about completing tasks or repositories.  
-It is about **creating meaning, hope and solutions**.
+I'm a **Computer Engineering graduate** with professional experience in software development, enterprise applications, ERP/CRM systems, and product and project coordination.
 
-I enjoy being part of projects where:
-- technology touches people’s lives  
-- ideas turn into real products  
-- and teamwork makes everything stronger  
+My background combines hands-on technical development with business requirements analysis, customer collaboration, and AI-driven solutions.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+I believe meaningful technology starts with understanding people and the problems they face.
 
-## 🎯 What I Work On
+- 💻 Enterprise software, ERP/CRM and B2B applications
+- 🤖 Artificial Intelligence, NLP and data analytics
+- 📱 Mobile application development
+- 🔁 Automation and system integrations
+- 🎯 Product development and project coordination
 
-<div align="left">
+---
 
-| 🤖 AI & Data | 📱 Mobile | 🔁 Automation | 🧠 Product Thinking |
-|------------|----------|--------------|--------------------|
-| Machine Learning, Deep Learning | Flutter Apps | n8n Workflows | From idea to impact |
-| NLP & Chatbots | Human-centered UI | API Integrations | PoC → MVP mindset |
+## 🛠️ Tech Stack
 
-</div>
+**Programming Languages**  
+Python · C# · Java · C · SQL
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+**Software & Mobile**  
+Flutter · Firebase · REST APIs · ERP/CRM Systems
+
+**AI & Data Science**  
+Machine Learning · Deep Learning · NLP · RAG · Pandas · NumPy · Scikit-learn
+
+**Data Engineering & Automation**  
+PostgreSQL · Apache Airflow · dbt · n8n · Docker · Docker Compose
+
+**Version Control**  
+Git · GitHub · SVN
+
+---
 
 ## 🚀 Featured Projects
 
-### 📊 AI-Powered Performance Decision Support System 
-* **Tech:** Python, Machine Learning, Data Analytics, Web-based Dashboard.
-* **Focus:** Developing a decision support system analyzing employee/department performance via motivation surveys, task completion times, and KPIs.
-* **Impact:** ML models for performance forecasting and risk analysis with intuitive manager dashboards.
+### 🎓 SmartEdu | AI-Powered Personalized Education
+**TÜBİTAK 2209-A Supported Research Project**
 
-### 🎓 SmartEdu - AI-Powered Education (TÜBİTAK 2209-A)
-* **Tech:** Flutter, LLMs, Text-to-Speech (TTS).
-* **Impact:** Developed a personalized learning environment for students with disabilities, adapting content to individual learning styles using AI.
+A Flutter and Firebase-based mobile learning application designed for primary school students with disabilities, offering personalized educational experiences based on individual learning needs.
 
-### 👗 Virtual Boutique 
-* **Tech:** n8n, Replicate (VTON models), Gemini Vision, Telegram API.
-* **Insight:** Built an end-to-end automation pipeline that transforms product photos onto models, significantly reducing photography costs for boutiques.
+### 📊 Kutup | AI-Powered Employee Performance Analytics
+**Undergraduate Capstone Project | IEEE SIU 2026**
 
-### 📈 Customer Churn Analysis 
-* **Tech:** Python, ML Algorithms, PostgreSQL, dbt, Apache Airflow.
-* **Insight:** Designed automated ETL pipelines to predict customer churn and created strategic dashboards for business insights.
+An AI-powered performance analysis and decision support system combining KPIs, 360-degree feedback, employee surveys, machine learning and NLP to support performance forecasting, risk analysis and improvement recommendations.
 
+### 📈 Customer Analytics & Data Engineering
+**Data Engineering Internship Project**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+Automated ETL/ELT data pipelines using Apache Airflow, dbt, PostgreSQL and Docker, alongside machine learning approaches for customer segmentation and churn prediction.
 
-## ✨ How I Define Myself
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Curious-333333?style=for-the-badge&logo=explore&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative-333333?style=for-the-badge&logo=artstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solution--Oriented-333333?style=for-the-badge&logo=checkmark&logoColor=white" />
-</p>
+## 💼 Professional Focus
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Social%20Impact--Driven-333333?style=for-the-badge&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsible-333333?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Growth--Oriented-333333?style=for-the-badge&logo=upwork&logoColor=white" />
-</p>
+My professional experience includes:
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+- Developing and improving enterprise B2B, CRM and service management applications.
+- Analyzing customer requirements and contributing to product development.
+- Working with ERP-connected applications and system integrations.
+- Participating in functional testing, troubleshooting and software security reviews.
+- Coordinating software development processes and collaborating with technical teams.
 
-## 💡 My Interests
+I enjoy working at the intersection of **technology, business needs and product development**.
 
-- 🌍 Developing technologies that make human life easier  
-- 🎓 Supporting **equal opportunities in education** through AI  
-- 🤖 Using artificial intelligence in **meaningful and ethical scenarios**  
-- 🤝 Being active in communities with team spirit and volunteering  
-- 🎨 Combining **software, art, poetry and psychology**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🛠️ My Digital Toolbox
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,flutter,dart" /> </p>
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,tensorflow,pytorch" /> </p>
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker" /> </p>
-
-<p align="left"> <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> </p>
-
-## 🚀 Mission Control
-
-![GitHub Stats](https://SENIN-PROJEN.vercel.app/api?username=cansuyildirimmm&show_icons=true&theme=radical)
-
-![Top Langs](https://SENIN-PROJEN.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=radical)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+---
 
 ## 🌱 Communities & Leadership
 
-- 🌟 **Google AI & Technology Academy** – Scholar & project developer  
-- 🚀 **Google Developer Student Clubs Turkey** – Core Team  
-- 🌿 **YetGen Education Program** – 2 terms Education Leadership  
-- 🧭 **IEEE ISTÜN CS Community** – Mentor & Software Developer  
-- 🏢 Industry experience through **AI, Data Engineering & Software internships**
+- **IEEE ISTÜN Computer Society** — Technical Mentor
+- **Google AI & Technology Academy** — Scholar
+- **Google Developer Student Clubs Türkiye** — Business Development Leadership
+- **YetGen** — Education Leadership & Mentorship
 
-I enjoy **leading, mentoring and building together**.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+---
 
 ## 🎭 Beyond Code
 
-- ✍️ I write poetry — words help me understand people  
-- 🧠 I’m interested in psychology and human behavior  
-- 🔄 I strive to become a better version of myself every day  
-- 💙 I see technology not only as code but as a way to **touch lives**
+Outside technology, I find inspiration in literature, poetry, psychology, photography and the arts.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+I believe curiosity, empathy and lifelong learning are just as important as technical skills.
 
-## 🌐 Let’s Connect
+---
 
-<p align="left">
+## 🌐 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/cansuyildirimmm/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@cansuyil614">
+    <img src="https://img.shields.io/badge/Medium-Read_My_Writing-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="mailto:cansuyil614@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cansuyildirimmm&label=Profile%20Views&color=blueviolet&style=flat" />
+---
+
+<p align="center">
+  🦋 <strong>There is a human in my code.</strong>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-<p align="left">
-🦋 <strong>There is a human in my code.</strong><br/>
-In every line; a solution, a hope, a piece of me.
+<p align="center">
+  <em>In every line, a solution, a hope, a piece of me.</em>
 </p>
+
 
