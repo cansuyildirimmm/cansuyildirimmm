@@ -71,25 +71,25 @@ For me, technology is more than writing code. It's about **creating meaningful s
 
 ---
 
-
 ## 🚀 Featured Projects
 
-### 📊 AI-Powered Performance Decision Support System 
-* **Tech:** Python, Machine Learning, Data Analytics, Web-based Dashboard.
-* **Focus:** Developing a decision support system analyzing employee/department performance via motivation surveys, task completion times, and KPIs.
-* **Impact:** ML models for performance forecasting and risk analysis with intuitive manager dashboards.
+### 📊 Kutup | AI-Powered Employee Performance Analytics
+**Undergraduate Capstone Project | IEEE SIU 2026**
 
-### 🎓 SmartEdu - AI-Powered Education (TÜBİTAK 2209-A)
-* **Tech:** Flutter, LLMs, Text-to-Speech (TTS).
-* **Impact:** Developed a personalized learning environment for students with disabilities, adapting content to individual learning styles using AI.
+Kutup is an AI-powered decision support system that evaluates employee performance using KPIs, 360-degree feedback, and survey data. By leveraging Machine Learning and Natural Language Processing (NLP), it provides managers with employee and department performance reports, predictive insights, risk assessments, and actionable recommendations to support informed decision-making.
 
-### 👗 Virtual Boutique 
-* **Tech:** n8n, Replicate (VTON models), Gemini Vision, Telegram API.
-* **Insight:** Built an end-to-end automation pipeline that transforms product photos onto models, significantly reducing photography costs for boutiques.
+### 🎓 SmartEdu | AI-Powered Personalized Education
+**TÜBİTAK 2209-A Supported Project**
 
-### 📈 Customer Churn Analysis 
-* **Tech:** Python, ML Algorithms, PostgreSQL, dbt, Apache Airflow.
-* **Insight:** Designed automated ETL pipelines to predict customer churn and created strategic dashboards for business insights.
+SmartEdu is an AI-powered mobile learning application designed for primary school students with disabilities. Built with Flutter, it combines personalized educational content with accessible learning approaches tailored to individual needs and learning styles.
+
+### 💻 Field Sales, Mobile CRM & Pano ERP Projects
+
+Enterprise software solutions designed to digitalize business operations. The field sales application supports sales activities, the mobile CRM solution facilitates customer relationship management and Pano ERP addresses industry-specific workflows in the electrical panel sector. Together, these applications support more efficient business processes across web and mobile platforms.
+
+### 🤖 Data Engineering & Artificial Intelligence Projects
+
+A collection of projects focused on data processing, customer analytics and intelligent support systems. These include data pipelines built with Apache Airflow, dbt and PostgreSQL; Machine Learning models for customer segmentation and churn prediction and NLP-based sentiment analysis and AI-powered customer support solutions.
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
