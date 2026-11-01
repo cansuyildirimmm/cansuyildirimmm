@@ -140,44 +140,40 @@ A collection of projects focused on data processing, customer analytics and inte
 
 ## 🌱 Communities & Leadership
 
-- 🌟 **Google AI & Technology Academy** – Scholar & project developer  
-- 🚀 **Google Developer Student Clubs Turkey** – Core Team  
-- 🌿 **YetGen Education Program** – 2 terms Education Leadership  
-- 🧭 **IEEE ISTÜN CS Community** – Mentor & Software Developer  
-- 🏢 Industry experience through **AI, Data Engineering & Software internships**
+Beyond technology, I believe in the power of
+**collaboration, mentorship and shared growth.**
 
-I enjoy **leading, mentoring and building together**.
+- 🌟 **Google AI & Technology Academy** — Graduate | AI & Technology Projects
+- 🚀 **Google Developer Student Clubs (GDSC)** — Business Development Lead
+- 🌿 **YetGen** — Education Leader | 2 Terms
+- 🧭 **IEEE ISTÜN Computer Society** — Mentor 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+I believe that **sharing knowledge, empowering others and growing together** can create a meaningful impact.
 
-## 🎭 Beyond Code
+---
 
-- ✍️ I write poetry — words help me understand people  
-- 🧠 I’m interested in psychology and human behavior  
-- 🔄 I strive to become a better version of myself every day  
-- 💙 I see technology not only as code but as a way to **touch lives**
+## 🌐 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🌐 Let’s Connect
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/cansuyildirimmm/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-7B68A6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:cansuyil614@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Say_Hello-9B7EBD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cansuyildirimmm&label=Profile%20Views&color=blueviolet&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cansuyildirimmm&label=Profile+Views&color=7B68A6&style=flat" alt="Profile Views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+---
 
-<p align="left">
-🦋 <strong>There is a human in my code.</strong><br/>
-In every line; a solution, a hope, a piece of me.
+<p align="center">
+  🦋 <strong>There is a human in my code.</strong>
+</p>
+
+<p align="center">
+  <em>In every line, a solution, a hope, a piece of me.</em>
 </p>
 
