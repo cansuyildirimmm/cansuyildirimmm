@@ -91,9 +91,7 @@ Enterprise software solutions designed to digitalize business operations. The fi
 
 A collection of projects focused on data processing, customer analytics and intelligent support systems. These include data pipelines built with Apache Airflow, dbt and PostgreSQL; Machine Learning models for customer segmentation and churn prediction and NLP-based sentiment analysis and AI-powered customer support solutions.
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 
 ## ✨ How I Define Myself
 
