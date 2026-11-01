@@ -52,32 +52,25 @@
 </p>
 
 
+
 ## 🌱 My Story
 
-I'm a Computer Engineering graduate with a strong passion for Artificial Intelligence, Software Development, Product Development and Project Management.
+I'm a Computer Engineer with experience in Software Development, Artificial Intelligence, Enterprise Software, and Product & Project Management.
 
-For me, software is not just about completing tasks or repositories.  
-It is about **creating meaning, hope and solutions**.
+I work on B2B, CRM, and ERP-integrated applications, focusing on software development, business requirements analysis, technical solutions, and project coordination.
 
-I enjoy being part of projects where:
-- technology touches people’s lives  
-- ideas turn into real products  
-- and teamwork makes everything stronger  
+For me, technology is more than writing code. It's about **creating meaningful solutions, solving real-world problems, and building products that make a difference.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+---
 
 ## 🎯 What I Work On
 
-<div align="left">
+- 💻 **Software Development:** Enterprise web and mobile applications, ERP/CRM and B2B systems
+- 🤖 **AI & Data:** Machine Learning, NLP, Data Analytics, and Automation
+- 🚀 **Product & Project Management:** Requirements Analysis, Product Development, Process Tracking, and Team Coordination
 
-| 🤖 AI & Data | 📱 Mobile | 🔁 Automation | 🧠 Product Thinking |
-|------------|----------|--------------|--------------------|
-| Machine Learning, Deep Learning | Flutter Apps | n8n Workflows | From idea to impact |
-| NLP & Chatbots | Human-centered UI | API Integrations | PoC → MVP mindset |
+---
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🚀 Featured Projects
 
