@@ -55,9 +55,9 @@
 
 ## 🌱 My Story
 
-I'm a Computer Engineer with experience in Software Development, Artificial Intelligence, Enterprise Software, and Product & Project Management.
+I'm a Computer Engineer with experience in Software Development, Artificial Intelligence, Enterprise Software and Product & Project Management.
 
-I work on B2B, CRM, and ERP-integrated applications, focusing on software development, business requirements analysis, technical solutions, and project coordination.
+I work on B2B, CRM, and ERP-integrated applications, focusing on software development, business requirements analysis, technical solutions and project coordination.
 
 For me, technology is more than writing code. It's about **creating meaningful solutions, solving real-world problems, and building products that make a difference.**
 
@@ -67,7 +67,7 @@ For me, technology is more than writing code. It's about **creating meaningful s
 
 - 💻 **Software Development:** Enterprise web and mobile applications, ERP/CRM and B2B systems
 - 🤖 **AI & Data:** Machine Learning, NLP, Data Analytics, and Automation
-- 🚀 **Product & Project Management:** Requirements Analysis, Product Development, Process Tracking, and Team Coordination
+- 🚀 **Product & Project Management:** Requirements Analysis, Product Development, Process Tracking and Team Coordination
 
 ---
 
