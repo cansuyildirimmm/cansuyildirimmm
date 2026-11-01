@@ -35,8 +35,14 @@
 
 <br/>
 
+
+<!-- TECH STACK -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,numpy,pandas,scikitlearn,tensorflow,pytorch,fastapi,docker,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,flutter,dart,postgres,docker,git&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,fastapi&perline=8" />
 </p>
 
 <p align="center">
@@ -45,7 +51,6 @@
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🌱 My Story
 
