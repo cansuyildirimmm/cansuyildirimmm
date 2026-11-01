@@ -120,15 +120,33 @@ A collection of projects focused on data processing, customer analytics and inte
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🛠️ My Digital Toolbox
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,flutter,dart" /> </p>
+## 📊 GitHub Activity & Insights
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,tensorflow,pytorch" /> </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=cansuyildirimmm&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Cansu's GitHub Statistics"
+  />
+</p>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker" /> </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> </p>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cansuyildirimmm&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+---
+
 
 ## 🚀 Mission Control
 
