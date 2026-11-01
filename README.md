@@ -121,32 +121,14 @@ A collection of projects focused on data processing, customer analytics and inte
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 
+
 ## 📊 GitHub Activity & Insights
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cansuyildirimmm&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Cansu's GitHub Statistics"
-  />
-</p>
+Explore my repositories, open-source contributions, and development journey on GitHub.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=cansuyildirimmm&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
+🔗 [View My GitHub Profile](https://github.com/cansuyildirimmm)
 
 ---
-
 
 ## 🚀 Mission Control
 
