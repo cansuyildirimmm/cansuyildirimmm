@@ -121,12 +121,20 @@ A collection of projects focused on data processing, customer analytics and inte
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 
-
 ## 📊 GitHub Activity & Insights
 
-Explore my repositories, open-source contributions, and development journey on GitHub.
-
-🔗 [View My GitHub Profile](https://github.com/cansuyildirimmm)
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=cansuyildirimmm&show_icons=true&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Most Used Languages"
+  />
+</p>
 
 ---
 
