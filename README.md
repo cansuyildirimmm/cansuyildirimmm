@@ -27,7 +27,7 @@
 <br/>
 
 <p align="center">
-  <em>Driving transformation through <strong>AI, Data</strong> and human-centered technology</em>
+  <em>Building meaningful solutions through Software, AI & Product Thinking</em>
 </p>
 
 <br/>
