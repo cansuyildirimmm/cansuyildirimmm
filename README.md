@@ -94,32 +94,32 @@ A collection of projects focused on data processing, customer analytics and inte
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
+
 ## ✨ How I Define Myself
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Curious-333333?style=for-the-badge&logo=explore&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative-333333?style=for-the-badge&logo=artstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solution--Oriented-333333?style=for-the-badge&logo=checkmark&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌱_Lifelong_Learner-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡_Creative_Thinker-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Solution--Oriented-333333?style=for-the-badge" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Social%20Impact--Driven-333333?style=for-the-badge&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsible-333333?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Growth--Oriented-333333?style=for-the-badge&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤝_Collaborative-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍_Human--Centered-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Growth--Minded-333333?style=for-the-badge" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+---
 
-## 💡 My Interests
+## 💡 Beyond the Code
 
-- 🌍 Developing technologies that make human life easier  
-- 🎓 Supporting **equal opportunities in education** through AI  
-- 🤖 Using artificial intelligence in **meaningful and ethical scenarios**  
-- 🤝 Being active in communities with team spirit and volunteering  
-- 🎨 Combining **software, art, poetry and psychology**
+- 🌍 **Human-Centered Technology:** Creating meaningful solutions that improve everyday life.
+- 🎓 **AI for Social Good:** Exploring accessible education and equal opportunities through technology.
+- 🤝 **Community & Collaboration:** Learning, sharing knowledge, mentoring and growing together.
+- 📚 **Art & Humanities:** Finding inspiration in literature, poetry, psychology, cinema and theatre.
+- 🌿 **Life Beyond the Screen:** Enjoying nature, photography, music and the beauty of everyday moments.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
+---
 
 ## 📊 GitHub Activity & Insights
 
@@ -137,14 +137,6 @@ A collection of projects focused on data processing, customer analytics and inte
 </p>
 
 ---
-
-## 🚀 Mission Control
-
-![GitHub Stats](https://SENIN-PROJEN.vercel.app/api?username=cansuyildirimmm&show_icons=true&theme=radical)
-
-![Top Langs](https://SENIN-PROJEN.vercel.app/api/top-langs/?username=cansuyildirimmm&layout=compact&theme=radical)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🌱 Communities & Leadership
 
