@@ -9,10 +9,12 @@
 
 <br/>
 
-<!-- TYPING NAME -->
+
+<!-- SPARKLING NAME -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+I%E2%80%99m+Cansu" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Hello%2C+I'm+Cansu+%E2%9C%A8"
+    alt="Hello, I'm Cansu"
   />
 </p>
 
@@ -23,6 +25,7 @@
     alt="Professional roles"
   />
 </p>
+
 
 <br/>
 
