@@ -73,12 +73,12 @@ For me, technology is more than writing code. It's about **creating meaningful s
 
 ## 🚀 Featured Projects
 
-### 📊 Kutup | AI-Powered Employee Performance Analytics
+### 🎓 Kutup | AI-Powered Employee Performance Analytics
 **Undergraduate Capstone Project | IEEE SIU 2026**
 
 Kutup is an AI-powered decision support system that evaluates employee performance using KPIs, 360-degree feedback, and survey data. By leveraging Machine Learning and Natural Language Processing (NLP), it provides managers with employee and department performance reports, predictive insights, risk assessments, and actionable recommendations to support informed decision-making.
 
-### 🎓 SmartEdu | AI-Powered Personalized Education
+### 📊 SmartEdu | AI-Powered Personalized Education
 **TÜBİTAK 2209-A Supported Project**
 
 SmartEdu is an AI-powered mobile learning application designed for primary school students with disabilities. Built with Flutter, it combines personalized educational content with accessible learning approaches tailored to individual needs and learning styles.
