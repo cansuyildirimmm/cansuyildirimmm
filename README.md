@@ -18,8 +18,9 @@
 
 <!-- TYPING ROLE -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;AI+Enthusiast;Project-Oriented+Thinker;Human-centered+technology" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=850&lines=Computer+Engineer;Product+%26+Project+Specialist;AI+Enthusiast;Human-Centered+Technology"
+    alt="Professional roles"
   />
 </p>
 
